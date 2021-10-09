@@ -1,1 +1,2 @@
- 	"Le commencement est la fin de tout
+ 	"Le commencement est la fin de tout"
+	"Qui parle sème, qui écoute récolte", pythagore.
